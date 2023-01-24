@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desktop-bg", "desktop-bg.csproj", "{4180E80A-6579-4BF6-BCB1-D62F75722C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4180E80A-6579-4BF6-BCB1-D62F75722C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4180E80A-6579-4BF6-BCB1-D62F75722C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4180E80A-6579-4BF6-BCB1-D62F75722C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4180E80A-6579-4BF6-BCB1-D62F75722C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8783A764-F50B-4405-AD56-0C26B31A5489}
+	EndGlobalSection
+EndGlobal
